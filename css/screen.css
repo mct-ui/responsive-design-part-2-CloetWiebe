@@ -200,6 +200,11 @@ a:focus {
     display: flow-root;
 }
 
+/* apperance modifiers*/
+.o-row--background{
+    background-color: #f7f7f7;
+}
+
 /* size modifiers */
 
 .o-row--lg {
